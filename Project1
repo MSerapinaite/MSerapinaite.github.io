@@ -1,0 +1,80 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="./styles.css" type="text/css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lobster&family=Permanent+Marker&family=Rampart+One&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <h1>CSS: Typography</h1>
+
+    <section>
+      <h2>Typography functions</h2>
+      <table>
+        <thead>
+          <tr>
+            <th class="header_function">Function</th>
+            <th class="header_description">Description</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td>Font-family</td>
+            <td>
+              Allows to pick up specific font-family to be applied to HTML
+              element
+            </td>
+          </tr>
+          <tr>
+            <td>Font-weight</td>
+            <td>
+              Allows to pick up specific font-weight to be applied to HTML
+              element
+            </td>
+          </tr>
+          <tr>
+            <td>Text-transform</td>
+            <td>
+              Allows to transform selected HTML element to uppercase or to
+              lowecase
+            </td>
+          </tr>
+          <tr>
+            <td>Text-align</td>
+            <td>
+              Allows to align selected text either to center, left, right or
+              justify
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+    <section>
+      <h2>Examples</h2>
+      <h3>Family-font examples</h3>
+      <ul>
+        <li id="Sample1">This is the sample
+        </li>
+        <li id="Sample2">This is the sample
+        </li>
+        <li id="Sample3">This is the sample
+        </li>
+      </ul>
+    </section>
+  </body>
+</html>
